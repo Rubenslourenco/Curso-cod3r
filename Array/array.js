@@ -3,7 +3,7 @@ pilotos.pop() //Remove o ultimo item
 console.log("------");
 console.log(pilotos);
 
-pilotos.push('Verstappen') //Aidiona na ultima linha 
+pilotos.push('Verstappen') //Adiciona na ultima linha 
 console.log("------");
 console.log(pilotos);
 

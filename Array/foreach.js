@@ -7,5 +7,5 @@ aprovados.forEach(function(nome, indice) {
 
 aprovados.forEach(nome => console.log(nome))
 
-const exibirAprovados = aprovados => console.log(aprovados);
+const exibirAprovados = aprovado => console.log(aprovado);
 aprovados.forEach(exibirAprovados)
